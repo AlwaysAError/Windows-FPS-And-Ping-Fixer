@@ -9,5 +9,6 @@ taskkill /F /IM UserOOBEBroker.exe
 taskkill /F /IM WidgetService.exe
 taskkill /F /IM Widgets.exe
 taskkill /F /IM spoolsv.exe
+taskkill /F /IM RuntimeBroker.exe
 
 GOTO START
